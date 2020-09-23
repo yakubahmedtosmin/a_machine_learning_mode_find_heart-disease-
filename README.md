@@ -1,0 +1,2 @@
+# a_machine_learning_mode_find_heart-disease-
+The goal of our work is to estimate minimum or systolic and maximum or diastolic volumes of the left ventricle from the dataset of MRI-images. This volume is used by practitioners to compute an ejection fraction: the fraction of outbound blood pumped from the heart with each heartbeat. This measurement can predict heart failure along with a large amount of cardiac disease.
